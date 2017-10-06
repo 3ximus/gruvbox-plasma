@@ -16,3 +16,5 @@ mv gruvbox-plasma/ ~/.local/share/plasma/desktoptheme/
 ```
 rm -rf ~/.local/share/plasma/desktoptheme/gruvbox-plasma
 ```
+
+This theme was based on the Arc Theme port for KDE
