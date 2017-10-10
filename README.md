@@ -18,3 +18,9 @@ rm -rf ~/.local/share/plasma/desktoptheme/gruvbox-plasma
 ```
 
 This theme was based on the Arc Theme port for KDE
+
+## Icons
+
+The icons I use to go with this theme are from [papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) edited by me and can be found in my [dotfiles](https://github.com/3ximus/dotfiles/tree/master/plasma/papirus-gruvbox-icons), just replace them in your current icon theme (or duplicate your current one)
+
+#### My [GTK](https://github.com/3ximus/gruvbox-gtk) theme to go along with this
