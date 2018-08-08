@@ -7,7 +7,7 @@ Plasma Desktop theme with Gruvbox colors
 ## Instalation
 
 ```
-git clone https://github.com/avivace/Arc-T.git
+git clone https://github.com/3ximus/gruvbox-plasma
 mv gruvbox-plasma/ ~/.local/share/plasma/desktoptheme/
 ```
 
